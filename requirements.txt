@@ -1,0 +1,6 @@
+FastAPI
+uvicorn
+pandas
+Streamlit
+openai
+python-dote Nv

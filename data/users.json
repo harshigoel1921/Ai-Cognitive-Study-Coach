@@ -1,0 +1,19 @@
+{
+    "name": "Harshi ",
+    "exam_date": "2026-03-25",
+    "daily_hours": 9,
+    "subjects": [
+        {
+            "name": "",
+            "topics": [
+                {
+                    "name": "",
+                    "difficulty": 2,
+                    "confidence": 4,
+                    "last_studied": null,
+                    "next_revision": "2026-03-27"
+                }
+            ]
+        }
+    ]
+}
