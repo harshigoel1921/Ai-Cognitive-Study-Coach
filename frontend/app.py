@@ -103,13 +103,10 @@ if st.button("💾 Save Data", use_container_width=True):
         ]
     }
 
-    requests.post(
+    res = requests.post(
     "http://127.0.0.1:8001/create-user",
     json=data
 )
-
-    st.write(res.status_code)
-    st.write(res.text)
     if res.status_code == 200:
         st.success("✅ Data saved successfully!")
     else:

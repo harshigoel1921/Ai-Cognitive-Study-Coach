@@ -3,4 +3,5 @@ uvicorn
 pandas
 Streamlit
 openai
-python-dote Nv
+python-dotenv
+plotly

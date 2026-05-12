@@ -1,17 +1,17 @@
 {
-    "name": "Harshi ",
-    "exam_date": "2026-03-25",
-    "daily_hours": 9,
+    "name": "",
+    "exam_date": "2026-05-13",
+    "daily_hours": 1,
     "subjects": [
         {
-            "name": "",
+            "name": "Physics ",
             "topics": [
                 {
-                    "name": "",
-                    "difficulty": 2,
-                    "confidence": 4,
+                    "name": "Units and Dimensions",
+                    "difficulty": 1,
+                    "confidence": 5,
                     "last_studied": null,
-                    "next_revision": "2026-03-27"
+                    "next_revision": "2026-05-15"
                 }
             ]
         }
